@@ -4,17 +4,6 @@ body{
     height:100%;
 }
 
-.card-content a{
-    border:solid 2px #BB99DD !important;
-    display:block!important;
-}
-
-a:hover{
-    text-decoration:none;
-    color:#FAF7FD!important;
-    background-color:#BB99DD!important;
-}
-
 .is-purple{
     color:#BB99DD;
 }
@@ -32,3 +21,23 @@ img{
     border-radius:50%!important;
     border:solid 3px #BB99DD !important;
 }
+
+.card-content a{
+    border:solid 2px #BB99DD !important;
+    display:block!important;
+}
+
+.card-content a:hover{
+    text-decoration:none;
+    color:#FAF7FD!important;
+    background-color:#BB99DD!important;
+}
+
+.card-footer a:hover,
+footer a:hover{
+    color:#af88d6!important;
+}
+
+
+
+
